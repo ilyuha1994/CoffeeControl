@@ -1,0 +1,10 @@
+D:\Google disk B.O\github\CoffeeControl\CoffeeControl\CoffeeControl\bin\Debug\CoffeeControl.exe.config
+D:\Google disk B.O\github\CoffeeControl\CoffeeControl\CoffeeControl\obj\Debug\CoffeeControl.csprojResolveAssemblyReference.cache
+D:\Google disk B.O\github\CoffeeControl\CoffeeControl\CoffeeControl\obj\Debug\CoffeeControl.cup.resources
+D:\Google disk B.O\github\CoffeeControl\CoffeeControl\CoffeeControl\obj\Debug\CoffeeControl.Form1.resources
+D:\Google disk B.O\github\CoffeeControl\CoffeeControl\CoffeeControl\obj\Debug\CoffeeControl.Properties.Resources.resources
+D:\Google disk B.O\github\CoffeeControl\CoffeeControl\CoffeeControl\obj\Debug\CoffeeControl.csproj.GenerateResource.Cache
+D:\Google disk B.O\github\CoffeeControl\CoffeeControl\CoffeeControl\bin\Debug\CoffeeControl.exe
+D:\Google disk B.O\github\CoffeeControl\CoffeeControl\CoffeeControl\bin\Debug\CoffeeControl.pdb
+D:\Google disk B.O\github\CoffeeControl\CoffeeControl\CoffeeControl\obj\Debug\CoffeeControl.exe
+D:\Google disk B.O\github\CoffeeControl\CoffeeControl\CoffeeControl\obj\Debug\CoffeeControl.pdb
